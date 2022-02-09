@@ -1,0 +1,21 @@
+bm - bookmarks
+
+bookmarks { name: "", url: "", description:""}
+
+buissness card { }
+
+contient { }
+
+
+password keeper { url:"", password:"", url:""}
+
+tasks { subject:"", body:"", date:"", time:""}
+
+calendar { }
+
+
+clock { digital, anglog, world clock}
+
+world clock {country:"", timezone:"" }
+
+

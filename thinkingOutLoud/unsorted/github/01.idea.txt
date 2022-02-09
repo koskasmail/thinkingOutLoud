@@ -1,0 +1,4 @@
+
+----[idea]------------
+
+one github repository per project, with many examples with many languages.

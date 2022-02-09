@@ -1,0 +1,28 @@
+
+----[clock]------------
+
+format
+HH:MM:SS MS
+
+HH
+01-24  
+1-12-am/pm
+
+MM
+00-59
+
+SS
+00-59
+
+MS
+00-59
+
+
+display analog/digital
+
+method / function
+
+clock project - world clock / pounch clock
+
+wake up early every day less minutes to sleep.
+(train your body to wake up early in the morning)
